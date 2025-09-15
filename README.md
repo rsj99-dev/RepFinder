@@ -1,6 +1,6 @@
-# Plasmid Rep Gene Annotator / 质粒复制子基因注释工具
+# Archaeal Plasmid Rep Protein Finder / 质粒复制子蛋白基因寻找与注释工具
 
-A comprehensive tool for annotating replication genes in plasmid sequences with support for multiple file formats and batch processing / 支持多种文件格式和批量处理的质粒序列复制子基因注释工具
+A comprehensive tool for annotating replication genes in plasmid sequences with support for multiple file formats and batch processing / 支持多种文件格式和批量处理的质粒序列复制子基因寻找与注释工具
 
 ## Features / 功能特性
 
